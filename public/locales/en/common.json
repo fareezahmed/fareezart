@@ -1,0 +1,20 @@
+{
+    "title": "Fareez Art Portfolio",
+    "description": "Fareez Ahmed: A Confluence of Creativity and Empowerment. With a passion that transcends boundaries, Fareez Ahmed is an artist, writer, tech enthusiast, fitness advocate, voice artist, and mentor all rolled into one.",
+    "logo": "https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600",
+    "sr": {
+        "logo": "Fareez Art",
+        "menu": {
+            "open": "Open main menu",
+            "close": "Close main menu"
+        }
+    },
+    "nav":{
+        "home": "Home",
+        "about": "About",
+        "portfolio": "Portfolio",
+        "blog": "Insights",
+        "events": "Workshops",
+        "contact": "Contact"
+    }
+  }
